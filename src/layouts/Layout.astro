@@ -106,8 +106,10 @@ const socialImageURL = new URL(
       )
     }
 
-    // NOTE: fallback is specified due to an issue with Safari on iOS 17
+    {/*
+    //  NOTE: fallback is specified due to an issue with Safari on iOS 17
     // Details: https://github.com/withastro/astro/issues/8625  
+    */}
     <ViewTransitions fallback="none"/>
 
     <script is:inline src="/toggle-theme.js"></script>
