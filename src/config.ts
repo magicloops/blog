@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://magicloops.dev/", // replace this with your deployed domain
   author: "Adam and Mihai",
   desc: "Program Computers with Natural Languge",
-  title: "Magic Loops",
+  title: "Magic Loops Blog",
   ogImage: "magic-loops-logo.png",
   lightAndDarkMode: true,
   postPerPage: 3,
