@@ -70,4 +70,4 @@ The initial implementation is about as simple as you can get. We actually create
 
 The good news is, the more Loops that get created, the better the Loop Creator will become!
 
-Curious to see RAG in action? [Create your first Loop today.](https://magicloops.dev)
+Curious to see RAG in action? [Create your first Loop today.](https://magicloops.dev?utm_source=blog&utm_medium=referral&utm_campaign=rags_to_riches)
