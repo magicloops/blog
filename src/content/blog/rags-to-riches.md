@@ -60,7 +60,7 @@ Once we have the vector embeddings, we send the Loop data to Pinecone.
 
 When a user creates a new Loop, we then compare the new description embedding with similar embeddings within Pinecone. 
 
-For any matches (up to 3), we include the Loop details in the context of the Loop Creator's LLM calls. This helps the Loop Creator see how a similar Loop was implemented.
+For any matches (note: currently just the top match), we include the Loop details in the context of the Loop Creator's LLM calls. This helps the Loop Creator see how a similar Loop was implemented.
 
 ### How good is it? 
 
