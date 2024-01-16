@@ -30,10 +30,10 @@ Here are some example usecases:
 
 - **ChatGPT automations**
   - _email summarizer, tag classifier, daily meditations, etc._
-- **Text and email notifications**
+- **Text/email notifications**
   - _"notify me when TSLA is up more than 5%"_
 - **Custom API endpoints**
-  - _we support REST ()GET, POST, etc._
+  - _we support REST (GET, POST, etc.)_
 - **Web scraping**
   - _"send me the top 5 stories on Hacker News"_
 - **System-to-system integrations** 
