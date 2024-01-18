@@ -4,6 +4,8 @@ import '@fontsource/pacifico';
 import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
 
+import PostHog from '../components/posthog.astro'
+
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
 export interface Props {
@@ -113,6 +115,7 @@ const socialImageURL = new URL(
     <ViewTransitions fallback="none"/>
 
     <script is:inline src="/toggle-theme.js"></script>
+    <PostHog />
   </head>
   <body>
     <slot />
