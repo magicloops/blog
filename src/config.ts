@@ -30,6 +30,18 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
+    name: "Discord",
+    href: "https://discord.gg/78DJrRtwfW",
+    linkTitle: `${SITE.title} on Discord`,
+    active: true,
+  },
+  {
+    name: "Twitter",
+    href: "https://twitter.com/magicloopsdev",
+    linkTitle: `${SITE.title} on Twitter`,
+    active: true,
+  },
+  {
     name: "Facebook",
     href: "https://www.facebook.com/buildmagicloops",
     linkTitle: `${SITE.title} on Facebook`,
@@ -51,12 +63,6 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:humans@magicloops.dev",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: true,
-  },
-  {
-    name: "Twitter",
-    href: "https://twitter.com/magicloopsdev",
-    linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
   {
@@ -100,12 +106,6 @@ export const SOCIALS: SocialObjects = [
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on CodePen`,
     active: false,
-  },
-  {
-    name: "Discord",
-    href: "https://discord.gg/78DJrRtwfW",
-    linkTitle: `${SITE.title} on Discord`,
-    active: true,
   },
   {
     name: "GitLab",
