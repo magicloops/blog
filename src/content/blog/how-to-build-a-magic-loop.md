@@ -21,13 +21,13 @@ description:
 
 ## Background
 
-Magic Loops is a tool that allows you to use natural language to build simple programs (automations, endpoints, background jobs, notifications, and more!)
+Magic Loops are AI-enabled automations that allow you to use natural language to build simple programs (notifications, scrapers, REST endpoints, background jobs, and more!)
 
-There are 3 primary ways to create a Magic Loop
+There are 3 primary ways to create a Magic Loop:
 
-1. [Use the Loop Creator](#the-loop-creator)
-2. [Create a Loop manually](#manual-loop-creation)
-3. [Copy an existing Public Loop](#public-loops)
+1. [Using the Loop Creator](#the-loop-creator)
+2. [Creating a Loop manually](#manual-loop-creation)
+3. [Copying an existing Public Loop](#public-loops)
 
 ## **The Loop Creator**
 
@@ -135,11 +135,11 @@ You'll see a pop-up where you can change the configuration to "Discoverable unde
 
 There are three primary ways to create a Magic Loop: 
 
-1. Loop Creator
-2. Manual Loops
-3. Use an existing Public Loop
+1. Working with the Loop Creator
+2. Manually building Loops by hand
+3. Using an existing Public Loop
 
-Regardless of the option you choose, you can always fall back to Manual mode, or ask the Loop Creator for help in modifying your Loop.
+Regardless of the path you choose, you can always fall back to Manual mode, or ask the Loop Creator for help in modifying your Loop.
 
 ## Get started today!
 
