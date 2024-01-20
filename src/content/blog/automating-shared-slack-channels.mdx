@@ -1,0 +1,43 @@
+---
+author: Adam Williams
+pubDatetime: 2024-01-19T23:15:44-08:00
+modDatetime: 2024-01-19T23:15:44-08:00
+title: Automating Shared Slack Channels
+slug: automating-shared-slack-channels
+featured: true
+draft: false
+tags:
+  - docs
+  - slack
+  - manual loop creation
+description: In this video, we demonstrate how to use Magic Loops to create a Slack channel dynamically based on a user signup. We walk through the process of setting up a Slack app, obtaining a bot token, and using Magic Loops to automate the creation of a channel and invite users. We also address some potential challenges and provide solutions along the way. By the end of the video, you'll have a clear understanding of how to implement this automation in your own workflow.
+---
+
+import { YouTube } from "astro-embed";
+
+## **tl;dr**
+
+> Programmatically creating shared Slack channels is a new feature in 2023.
+> Watch [the video](https://youtu.be/kbKcdiafNaw) to learn how to create a Slack Bot and then use this [example loop](https://magicloops.dev/loop/a1f9a5f4-291f-4b44-a0f6-f5b09644a901).
+
+## Background
+
+Magic Loops can be used to automate almost anything.
+
+One of the challenges with existing automation solutions is the reliance on a 3rd party to have the correct integrations you need.
+
+With Magic Loops, even if the best AI in the world isn't up-to-date, you can still build the necessary automations.
+
+> At the end of the day, it's all just code!
+
+Watch the video below to learn how we take advantage of this fact to build an automation that invites an external user to a shared Slack channel, something that wasn't possible until 2023 and was (temporarily) missing from the training data for OpenAI's GPT-4.
+
+## **Video**
+
+<YouTube id="https://youtu.be/kbKcdiafNaw" />
+
+## The Loop
+
+You can find the example Loop from the video [here](https://magicloops.dev/loop/a1f9a5f4-291f-4b44-a0f6-f5b09644a901).
+
+To activate the Loop, you'll need to create a Slack Bot (as demonstrated in the video) and acquire the `BOT_TOKEN`.
