@@ -90,15 +90,15 @@ Or… **we were just GPT-4 resellers.**
 
 Although we had a product that users loved, it wasn’t _our_ product.
 
-We had finally come to the conclusion that, in the short-term, LLMs are primarily useful for three main tasks\*:
+We had finally come to the conclusion that, in the short-term, LLMs are primarily useful for three main tasks **\[0\]**:
 
-1. Education\*\*
+1. Education **\[1\]**
 2. Code generation
 3. Transforming data
 
-> - \*Yes, there are many consumer use cases like role-playing chatbots, but we were narrowing to professional value.
+> **\[0\]** Yes, there are many consumer use cases like role-playing chatbots, but we were narrowing to professional value.
 
-> - \*\*And yes, education seems too difficult, my wife would be much better suited for that endeavor!
+> **\[1\]** And yes, education seems too difficult, my wife would be much better suited for that endeavor!
 
 Given our previous user feedback, we knew there were 100s of valuable integrations that would be supercharged with LLMs.
 
