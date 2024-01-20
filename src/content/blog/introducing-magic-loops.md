@@ -1,15 +1,14 @@
 ---
-author: Mihai Bulic 
+author: Mihai Bulic
 pubDatetime: 2023-11-25T15:22:00Z
 modDatetime: 2023-11-25T15:22:00Z
 title: Introducing Magic Loops - Easy automation with AI
 slug: introducing-magic-loops
-featured: true
+featured: false
 draft: false
 tags:
   - docs
-description:
-  Combine LLMs and code to create simple automations
+description: Combine LLMs and code to create simple automations
 ---
 
 Howdy! We’re Adam and Mihai from Magic Loops — a new way to program computers using generative AI.
@@ -21,7 +20,7 @@ Magic Loops combine LLMs and code to make simple automations easy to build and r
 ### **🙈 The Problem**
 
 You want to automate a repetitive task or workflow.\
-Today, you’re likely: 
+Today, you’re likely:
 
 1. Attempting to use a **no-code/low-code** tool but struggling with **limitations**
 2. Trying to use **ChatGPT** but struggling with **numbers and repeatability**
@@ -41,15 +40,15 @@ Once you've tested your loop, hit publish and we’ll host it for you.
 
 **Investors: Watching YC launches**
 
-* [YC S23 Watcher](https://magicloops.dev/loop/5f524d25-f213-4943-af57-244ead73c15f) will text you the latest YC launches
+- [YC S23 Watcher](https://magicloops.dev/loop/5f524d25-f213-4943-af57-244ead73c15f) will text you the latest YC launches
 
 **Can of Soup: Generating novel pictures**
 
-* [Daily Image Prompt](https://magicloops.dev/loop/4246b18f-f258-44bf-aa2f-145a5eac2703) uses LLMs to generate three meme-worthy prompts
+- [Daily Image Prompt](https://magicloops.dev/loop/4246b18f-f258-44bf-aa2f-145a5eac2703) uses LLMs to generate three meme-worthy prompts
 
 **Bland AI: Demoing your API-based product**
 
-* [Bland AI - Demo](https://magicloops.dev/loop/d8c1ba48-fa78-4599-8d0d-1d5ba8a35368) triggers an AI phone call whenever an email is received
+- [Bland AI - Demo](https://magicloops.dev/loop/d8c1ba48-fa78-4599-8d0d-1d5ba8a35368) triggers an AI phone call whenever an email is received
 
 ### **Our Ask**
 
