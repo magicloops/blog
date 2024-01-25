@@ -59,7 +59,7 @@ This update includes a few other fixes as well:
 
 Function calling is out; enter pure JSON mode. This change means the Loop Creator (LC) can focus on one block at a time, enhancing stability and predictability.
 
-> We should probably dedicated a whole post to why we moved away from Function Calling to JSON mode... another time!
+> We should probably dedicate a whole post to why we moved away from Function Calling to JSON mode... another time!
 
 #### **Revamped Validate Prompt**
 
