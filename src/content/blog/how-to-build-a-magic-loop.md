@@ -1,18 +1,17 @@
 ---
-author: Adam Williams 
+author: Adam Williams
 pubDatetime: 2024-01-17T21:53:25-08:00
 modDatetime: 2024-01-17T21:53:25-08:00
 title: How to build your first Magic Loop
-slug: how-to-build-a-magic-loop 
-featured: true
+slug: how-to-build-a-magic-loop
+featured: false
 draft: false
 tags:
   - docs
   - loop creator
   - manual loop creation
   - public loops
-description:
-  An overview of the three main ways to build a Magic Loop
+description: An overview of the three main ways to build a Magic Loop
 ---
 
 ## **tl;dr**
@@ -53,17 +52,17 @@ When the outline seems right, just click "Create Loop" to kick off automatic Loo
 
 ### Loop Generation
 
-This screen can be a bit overwhelming, but essentially the Loop Creator will now try and build your Loop. 
+This screen can be a bit overwhelming, but essentially the Loop Creator will now try and build your Loop.
 
 Block by block, the LC will go through and create, update, and validate the Block to get the desired behavior.
 
-> Note: If something is wrong, you can stop it at any time and adjust the parameters. 
+> Note: If something is wrong, you can stop it at any time and adjust the parameters.
 
 If the Loop Creator runs into any issues, it may pop open the chat and ask a clarifying question.
 
 ### Test: Success ✅
 
-Assuming all goes well, the Loop Creator will finish the Loop. 
+Assuming all goes well, the Loop Creator will finish the Loop.
 
 Feel free to test the created Loop once more to make sure it works.
 
@@ -81,13 +80,13 @@ For more advanced Loops, it often makes sense to create a Loop _manually_.
 
 We give you full control over the loop, allowing you to change and modify it until it fits your needs.
 
-### How does it work? 
+### How does it work?
 
 Simply click "Manual Loop" in the Loop sidebar menu, and get started.
 
 ![Create a Manual Loop](/images/manual-loop-button.png)
 
-You can add Blocks as you see fit, and tweak their prompts until they do what you want. 
+You can add Blocks as you see fit, and tweak their prompts until they do what you want.
 
 As you add Blocks, simply click "Test" on each Block, or on the Loop as a whole, to simulate a run (known as a "Test Run").
 
@@ -95,11 +94,11 @@ As you add Blocks, simply click "Test" on each Block, or on the Loop as a whole,
 
 ### Code Blocks
 
-One of the most useful aspects of Magic Loops are the Code Blocks. 
+One of the most useful aspects of Magic Loops are the Code Blocks.
 
 ![Example Code Block](/images/code-block-example.png)
 
-Code Blocks allow you to define specific details of a Block, and we use GPT-4 to generate code for that Block. 
+Code Blocks allow you to define specific details of a Block, and we use GPT-4 to generate code for that Block.
 
 The Code Blocks automatically receive the previous blocks output, the Loop Variables, and more context to better facilitate your request.
 
@@ -111,7 +110,7 @@ Once you've tested your Manual Loop, simply click "Activate" to turn it on.
 
 On the Magic Loops [homepage](https://magicloops.dev) you'll find a section for Public Loops.
 
-Public Loops are Loops created by other users and shared with the world. 
+Public Loops are Loops created by other users and shared with the world.
 
 If you find a Loop that you like, simply click "Use this Loop" at the top right.
 
@@ -119,7 +118,7 @@ If you find a Loop that you like, simply click "Use this Loop" at the top right.
 
 > Oftentimes Public Loops rely on Loop Variables, make sure any Loop Variable values are defined before trying to Activate your Loop.
 
-Feel free to adjust the Loop as needed for your usecase. 
+Feel free to adjust the Loop as needed for your usecase.
 
 ### Sharing your Loops
 
@@ -133,7 +132,7 @@ You'll see a pop-up where you can change the configuration to "Discoverable unde
 
 ## **Summary**
 
-There are three primary ways to create a Magic Loop: 
+There are three primary ways to create a Magic Loop:
 
 1. Working with the Loop Creator
 2. Manually building Loops by hand
@@ -144,4 +143,3 @@ Regardless of the path you choose, you can always fall back to Manual mode, or a
 ## Get started today!
 
 [Make your first Magic Loop](https://magicloops.dev) and discover how easy it is to program useful automations with AI!
-
