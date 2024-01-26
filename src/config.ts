@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "Magic Loops Blog",
   ogImage: "magic-loops-logo.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 10,
 };
 
 export const LOCALE = {
