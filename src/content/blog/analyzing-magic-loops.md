@@ -147,7 +147,7 @@ We noticed that it would often use `Other` for things that were possible, but wo
 
 > Great! Let's give our prompt some more flexibility.
 
-We added a few new types to the `input` and `output` options such as "manual", "trigger", "webview", "file", and "other"
+We added a few new types to the `input` and `output` options such as "manual", "trigger", "webview", and "file."
 
 Additionally, let's add an `inputDesc` and `outputDesc` field to give GPT-4 the flexibility of expounding on a specific trigger or file use.
 
