@@ -22,7 +22,7 @@ Using Magic Loops, we can automate the role assignment process, which is usually
 2. **Create a Magic Loop**: Title it "Werewolf" and set a trigger, like an email trigger.
 3. **Send an Email**: Use the email trigger to send a request for a role assignment.
 4. **Extract Data**: Use Magic Loops to access the spreadsheet, identify unassigned roles, and assign a role randomly.
-5. **API Integration**: Use the SHITI API to interact with Google Spreadsheets.
+5. **API Integration**: Use the Sheety API to interact with Google Spreadsheets.
 6. **Generate and Execute Code**: Use JavaScript to automate the role assignment.
 7. **Send Email Response**: Customize and send the assigned role back to the user via email.
 
