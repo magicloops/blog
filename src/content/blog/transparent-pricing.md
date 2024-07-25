@@ -2,7 +2,7 @@
 author: Adam Williams
 pubDatetime: 2024-07-24T18:29:22-07:00
 modDatetime: 2024-07-24T18:29:22-07:00
-title: Transparent and Fair Pricing
+title: Fair and Transparent Pricing
 slug: transparent-pricing
 featured: true
 draft: false
@@ -35,7 +35,7 @@ Thankfully, we never removed the credit tracking within Magic Loops, so switchin
 
 We did change a few things though:
 
-### Transparent Pricing
+### Fair Pricing
 
 Every dollar is 1000 credits.
 
@@ -43,11 +43,13 @@ Previously, you would get X credits for Y dollars. This was confusing.
 
 Now you get X \* 1000 credits for X dollars. Simple.
 
-### Fair Value
+### Transparent Value
 
 We charge 30% on top of the APIs and services we use.
 
 Same as the App Store. That's it.
+
+Learn more about credits [here](https://magicloops.dev/pricing#credits).
 
 ## Plans to the Future
 
@@ -56,6 +58,8 @@ We have 3 plan types:
 1. Free
 2. Paid
 3. Enterprise
+
+(compare plans [here](https://magicloops.dev/pricing#compare))
 
 ### Free as in 🍻
 
@@ -67,15 +71,14 @@ _Note: in the future we'll likely increase the free tier value but also make you
 
 ### Paid as in 💸
 
-We have 4 paid tiers:
+We have 4 monthly tiers:
 
-1. Hobby - $9/month - 9000 credits
-
-2. Professional - $20/month - 20k credits
-
-3. Developer - $50/month - 50k credits
-
-4. Startup - $300/month - 300k credits
+| Plan         | Price/Month | Credits |
+| ------------ | ----------- | ------- |
+| Hobby        | $9          | 9000    |
+| Professional | $20         | 20k     |
+| Developer    | $50         | 50k     |
+| Startup      | $300        | 300k    |
 
 You can run as many Loops as you want as many times as you want. No limits other than credits.
 
@@ -99,7 +102,7 @@ We can't, forever.
 
 Magic Loops is [beta software](https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta), and while we're ironing out the kinks and making the product better, we don't want to limit the creativity of our users.
 
-_Ok, but it also costs $$$ to run Loops, why have a free tier?_
+_Ok, but it also costs $$$ to run Loops, how can you have a free tier?_
 
 With the introduction of [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), using large language models within Loops is now cheaper than ever. We want to expose our (what we think is awesome, you [tell us](mailto:humans@magicloops.dev)) software to the world, and continue to have our users surprise us with what they build.
 
