@@ -17,7 +17,7 @@ description: Making Magic Loops cheaper for all
 
 ## **tl;dr**
 
-> We've switched _back_ to a credit-based pricing model
+> Magic Loops run on credits... what are those?
 
 ## Background
 
