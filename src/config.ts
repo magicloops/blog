@@ -73,7 +73,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "YouTube",
-    href: "https://www.youtube.com/@LoopRuns",
+    href: "https://www.youtube.com/@magicloopsdev?sub_confirmation=1",
     linkTitle: `${SITE.title} on YouTube`,
     active: true,
   },
